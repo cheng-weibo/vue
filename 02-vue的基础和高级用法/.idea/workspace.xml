@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="033ab238-ef79-43d3-9705-df132f536af6" name="Default Changelist" comment="" />
+    <list default="true" id="033ab238-ef79-43d3-9705-df132f536af6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../03-vue-router/02-vue-router的使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-vue-router/02-vue-router的使用.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +142,9 @@
       <find>newValue</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -164,6 +169,7 @@
     <option name="width" value="1587" />
     <option name="height" value="928" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
